@@ -199,6 +199,4 @@ pytest tests/ -v
 └── README.md
 ```
 
-## License
 
-MIT
